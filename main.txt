@@ -1,3 +1,2 @@
 1. init
-2. test2 first change
-3. test2 A
+2. first change
